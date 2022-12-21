@@ -1,3 +1,8 @@
+# HX README
+
+This is a fork of the official v6 branch + a rename so we can run this old version in parallel with the newer version of AJV.
+
+
 <img align="right" alt="Ajv logo" width="160" src="https://ajv.js.org/images/ajv_logo.png">
 
 # Ajv: Another JSON Schema Validator
